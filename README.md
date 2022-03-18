@@ -5,6 +5,14 @@
 - 💞️ I’m looking to collaborate on (Maybe when I get better)
 -I hope to make a lot of friends here! That's all!
 
+### My Python Projects
+-Rock Paper Scissors game
+-Madlib Game
+-Number Guessing Game
+
+### Tasks for today
+-Get familiar with lessons related to data structures and algorithms
+
 
 <!---
 mesan121/mesan121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
