@@ -6,9 +6,9 @@
 -I hope to make a lot of friends here! That's all!
 
 ### My Python Projects
--Rock Paper Scissors game
--Madlibs
--Number Guessing
+- Rock Paper Scissors game
+- Madlibs
+- Number Guessing
 
 ### Tasks for today
 -Get familiar with lessons related to data structures and algorithms
