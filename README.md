@@ -14,7 +14,7 @@
 - [x] Get familiar with lessons related to data structures and algorithms
 - [x] Finish atleast 5 problems in competition
 
-![Simp for Jihyo](jihyo.jpg)
+![Simp for Jihyo](590604938611759186.jpg)
 
 <!---
 mesan121/mesan121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
